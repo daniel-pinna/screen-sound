@@ -1,0 +1,14 @@
+/home/daniel/projetcs/alura/csharp/projeto-musical/bin/Debug/net8.0/projeto-musical
+/home/daniel/projetcs/alura/csharp/projeto-musical/bin/Debug/net8.0/projeto-musical.deps.json
+/home/daniel/projetcs/alura/csharp/projeto-musical/bin/Debug/net8.0/projeto-musical.runtimeconfig.json
+/home/daniel/projetcs/alura/csharp/projeto-musical/bin/Debug/net8.0/projeto-musical.dll
+/home/daniel/projetcs/alura/csharp/projeto-musical/bin/Debug/net8.0/projeto-musical.pdb
+/home/daniel/projetcs/alura/csharp/projeto-musical/obj/Debug/net8.0/projeto-musical.GeneratedMSBuildEditorConfig.editorconfig
+/home/daniel/projetcs/alura/csharp/projeto-musical/obj/Debug/net8.0/projeto-musical.AssemblyInfoInputs.cache
+/home/daniel/projetcs/alura/csharp/projeto-musical/obj/Debug/net8.0/projeto-musical.AssemblyInfo.cs
+/home/daniel/projetcs/alura/csharp/projeto-musical/obj/Debug/net8.0/projeto-musical.csproj.CoreCompileInputs.cache
+/home/daniel/projetcs/alura/csharp/projeto-musical/obj/Debug/net8.0/projeto-musical.dll
+/home/daniel/projetcs/alura/csharp/projeto-musical/obj/Debug/net8.0/refint/projeto-musical.dll
+/home/daniel/projetcs/alura/csharp/projeto-musical/obj/Debug/net8.0/projeto-musical.pdb
+/home/daniel/projetcs/alura/csharp/projeto-musical/obj/Debug/net8.0/projeto-musical.genruntimeconfig.cache
+/home/daniel/projetcs/alura/csharp/projeto-musical/obj/Debug/net8.0/ref/projeto-musical.dll
