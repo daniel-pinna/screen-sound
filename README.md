@@ -1,7 +1,7 @@
 Temas abordados nas aulas:
   - Declaração de variáveis e atribuição
   - Operadores lógicos e aritméticos
-  - Tipo primitivos (sting, int, float e double)
+  - Tipo primitivos
   - If/Else
   - Switch case
   - For e Foreach
